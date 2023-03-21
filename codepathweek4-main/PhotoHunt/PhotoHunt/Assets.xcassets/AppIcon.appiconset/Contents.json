@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "1277187_food_movie_popcorn_snack_theater_icon.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
